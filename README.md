@@ -2,19 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Chu4nQ1n&color=blue)
 
+- 🔭 I am a graduate student at Newcastle University, UK.
+- 🌱 I am extremely interested in Deep Learning and Computer Vision.
+- 🤔 I am looking for an available Ph.D. position.
+- 📫 How to reach me: Unnecessary.
+- ⚡ Fun fact: Addicted to CS:GO
+- 🎮 Supreme Master First Class on CS:GO, Faceit Lv.10 player :)
+
 [![Chuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chu4nQ1n&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Chu4nQ1n/Chu4nQ1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
