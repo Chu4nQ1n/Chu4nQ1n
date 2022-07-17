@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Chuan 👋
 
 ![](https://komarev.com/ghpvc/?username=Chu4nQ1n&color=blue)
 
